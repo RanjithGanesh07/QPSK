@@ -72,7 +72,7 @@ plt.figure(figsize=(10, 6))
 
 plt.subplot(3, 1, 1)
 plt.plot(inp_time, inp_wave, drawstyle='steps-post')
-plt.title('Input Binary Data')
+plt.title('Input Bainar Data')
 plt.ylim(-0.5, 1.5)
 plt.grid(True)
 
@@ -100,7 +100,8 @@ plt.show()
 3. **Demodulated Signal:**  
    The recovered binary sequence after sampling and decision logic.
 
-![image](https://github.com/user-attachments/assets/270f5ab3-ae60-4b67-a3f1-ba9e63438bdb)
+   ![WhatsApp Image 2025-04-29 at 20 12 56_68ca0375](https://github.com/user-attachments/assets/5a168c62-409d-4303-86e6-da4aca3ec3c4)
+
 
 
 
